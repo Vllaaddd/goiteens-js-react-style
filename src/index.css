@@ -21,3 +21,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.marked{
+  background-color: #f26f5b;
+  color: #fff;
+}
+
+.non-marked{
+  background-color: #fef4f5;
+  color: #615d5c;
+}
